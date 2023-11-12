@@ -6,10 +6,10 @@ bool = False  # Boolean
 word = "Результат:"
 
 number -= 5
-x = 8
-res = number % x
+num_3 = 8
+res = number % num_3
 
-a = z = q = 10
-w, r, b = 12, "Word", True
+num_a = num_z = num_q = 10
+num_4, word_2, bool_2 = 12, "Word", True
 
-print(word, res, w, r, b)
+print(word, res, num_4, word_2, bool_2)
